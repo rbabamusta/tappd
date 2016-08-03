@@ -1,0 +1,59 @@
+.tappd {
+	width: auto;
+	height: 18px;
+	padding: 10px;
+	border: 3px grey;
+	margin: 0;
+	background-color: #f28500;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: courier;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+.signup {
+	font-family: arial;
+	color: #f28500;	
+	font-weight: bold;
+}
+
+.email1 {
+	font-family: arial;
+	color: grey;
+	margin-top: 50px;
+}
+
+.email {
+	width: auto;
+	height: 18px;
+	padding: 10px;
+	border: 35px grey;
+	margin: 0;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	font-family: arial;
+	font-size: 20px;
+	color: grey;
+}
+
+.submit {
+	width: auto;
+	height: 18px;
+	padding: 10px;
+	border: 3px grey;
+	margin: 0;
+	background-color: #f28500;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: courier;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	padding-bottom: 25px;
+	margin-top: 500px;
+}

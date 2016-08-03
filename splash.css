@@ -1,0 +1,83 @@
+body {
+	background-color: #f28500;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 48px;
+	font-family: Courier;
+	margin-top: 15px;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: Courier;
+	font-variant: small-caps;
+	margin-top
+}
+
+p{
+	color: white;
+	font-size: 18px;
+	font-family: arial;
+	text-align: center;
+
+}
+
+.bottlecenter {
+	text-align: center;
+
+}
+
+.bottlecenter img {
+	width: 28%;
+}
+
+.zipcode {
+	width: 405px;
+	height: 18px;
+	padding: 10px;
+	border: 3px grey;
+	margin: 0;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	font-family: arial;
+	font-size: 20px;
+	color: grey;
+}
+
+.miles{
+	width: 405px;
+	height: 18px;
+	padding: 10px;
+	border: 3px grey;
+	margin: 0;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	font-family: arial;
+	font-size: 20px;
+	color: grey;
+}
+
+.start{
+	width: 405px;
+	height: 28px;
+	padding: 10px;
+	border: 3px grey;
+	margin: 0;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	text-align: center;
+	font-size: 25px;
+	font-family: arial;
+	color: orange;
+}
