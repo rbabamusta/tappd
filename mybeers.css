@@ -1,0 +1,84 @@
+.tappd {
+	width: 450px;
+	height: 18px;
+	padding: 10px;
+	margin: 0;
+	background-color: #f28500;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: courier;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+.mybeers {
+	width:  405px;
+	font-family: arial;
+	color: #f28500;	
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.summershandy {
+	width: 105px;
+	height: 100px;
+	left: 34%;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lagunitas {
+	width: 105px;
+	height: 100px;
+	left: 34%;
+	margin-top: 120px;
+	position: absolute;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.beertype {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: arial;
+	font-weight: bold;
+	margin-top: 42px;
+
+}
+
+.beerbrand {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: arial
+}
+
+
+.beertype2 {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: arial;
+	font-weight: bold;
+	margin-top: 165px;
+}
+
+.beerbrand2 {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: arial;
+}
+
+
+
+
+
+
+
+

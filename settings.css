@@ -1,4 +1,5 @@
-.tappd {
+
+.tappd3 {
 	width: 405px;
 	height: 18px;
 	padding: 10px;
@@ -13,7 +14,7 @@
 	padding-bottom: 25px;
 }
 
-.signup {
+.settings2 {
 	width:  405px;
 	font-family: arial;
 	color: #f28500;	
@@ -22,7 +23,7 @@
 	margin-right: auto;
 }
 
-.email1 {
+.location {
 	width: 405px;
 	font-family: arial;
 	color: #696969;
@@ -31,7 +32,7 @@
 	margin-right: auto;
 }
 
-.email {
+.zipcode2 {
 	width: 405px;
 	height: 18px;
 	padding: 10px;
@@ -47,7 +48,7 @@
 	color: grey;
 }
 
-.password1 {
+.matchradius {
 	width: 405px;
 	font-family: arial;
 	color: #696969;
@@ -56,7 +57,7 @@
 	margin-right: auto;
 }
 
-.password{
+.miles {
 	width: 405px;
 	height: 18px;
 	padding: 10px;
@@ -72,7 +73,8 @@
 	color: grey;
 }
 
-.submit {
+
+.signout {
 	width: 405px;
 	height: 18px;
 	padding: 10px;
@@ -88,3 +90,22 @@
 	padding-bottom: 25px;
 	margin-top: 350px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

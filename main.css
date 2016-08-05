@@ -1,0 +1,78 @@
+.tappd2 {
+	width: 405px;
+	height: 18px;
+	padding: 10px;
+	margin: 0;
+	background-color: #f28500;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: courier;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top: 22px;
+	width: 398px;
+	height: 315px;
+}
+
+.leinenkugel {
+	width: 375px;
+	font-family: arial;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 45px;
+	font-weight: bold;
+
+}
+
+.leinenkugel2 {
+	width: 375px;
+	font-family: arial;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: lighter;
+	font-size: 15px;
+
+}
+
+.witbier {
+	width: 375px;
+	font-family: arial;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: lighter;
+	font-size: 15px;
+}
+
+.availability {
+	width: 375px;
+	font-family: arial;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: lighter;
+	font-size: 15px;
+}
+
+ul{
+  list-style: none;
+  width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  padding-left: 70px;
+  word-spacing: 60px;
+
+}
+
+ li{
+  display: inline; 
+  font-weight: bold;
+  font-family: arial; 
+}
